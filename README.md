@@ -10,7 +10,8 @@ About Me!
 
 ## Others
 
-### Languages
+### Language, Programs and Technology that I use!
+
 
 
 ### Certifications(자격증)
