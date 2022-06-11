@@ -11,7 +11,7 @@ About Me!
 ## Others
 
 ### Language, Programs and Technology that I use!
-
+<a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
 
 
 ### Certifications(자격증)
