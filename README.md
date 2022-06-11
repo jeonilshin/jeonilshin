@@ -12,6 +12,25 @@ About Me!
 
 ### Language, Programs and Technology that I use!
 <a href="https://www.centos.org/"><img src="https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white"/></a>
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
+<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+<a href="https://www.apple.com/macos/monterey/"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+<a href="https://www.microsoft.com/ko-kr/software-download/windows10"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
+<a href="https://namu.wiki/w/HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
+<a href=""><img src=""/></a>
 
 
 ### Certifications(자격증)
