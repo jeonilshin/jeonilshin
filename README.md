@@ -2,8 +2,8 @@
 About Me!
 
 ## Hi there 👋
-I'm a Student, interested in AI, Programming, and Cloud Computing.
-저는 AI, 프로그래밍, 클라우드 컴퓨팅에 관심을 가지고 있는 학생입니다!
+- I'm a Student, interested in AI, Programming, and Cloud Computing.
+- 저는 AI, 프로그래밍, 클라우드 컴퓨팅에 관심을 가지고 있는 학생입니다!
 
 ## Stats
 
