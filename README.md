@@ -1,4 +1,11 @@
-### Hi there 👋
+# 안녕하세요, 전일신입니다!
+About Me!
+
+## Hi there 👋
+I'm a Student, interested in AI, Programming, and Cloud Computing.
+저는 AI, 프로그래밍, 클라우드 컴퓨팅에 관심을 가지고 있는 학생입니다!
+
+## Stats
 
 <!--
 **jeonilshin/jeonilshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
