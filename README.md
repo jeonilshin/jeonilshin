@@ -15,7 +15,7 @@ About Me!
 
 
 ### Certifications(자격증)
-![aws-certified-solutions-architect-associate(1)](https://user-images.githubusercontent.com/86287920/173170170-813668ca-352a-4a58-adba-5138bfd18dca.png)
+
 
 
 
