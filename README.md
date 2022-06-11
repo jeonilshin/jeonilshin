@@ -6,6 +6,7 @@ About Me!
 - 저는 AI, 프로그래밍, 클라우드 컴퓨팅에 관심을 가지고 있는 학생입니다!
 
 ## Stats
+![Contribution]https://github-readme-stats.vercel.app/api?username=jeonilshin&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&count_private=true
 
 <!--
 **jeonilshin/jeonilshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
