@@ -8,6 +8,16 @@ About Me!
 ## Stats
 ![Contribution](https://github-readme-stats.vercel.app/api?username=jeonilshin&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
+## Others
+
+### Languages
+
+### Certifications(자격증)
+![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/86287920/173170137-e5691bb0-acbb-4e0e-81f3-cbff36c64ae5.png)
+
+<span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
+
+
 <!--
 **jeonilshin/jeonilshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
