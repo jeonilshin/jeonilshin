@@ -37,7 +37,7 @@ About Me!
 <a href="https://www.aws.training/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 
 ### Certifications(자격증)
-<a href="https://www.credly.com/badges/7c49e950-e8a8-4e40-a82c-9a3b1f67cc85/public_url"><img src="Badges/AWS-SSA"/></a>
+<a href="https://www.credly.com/badges/7c49e950-e8a8-4e40-a82c-9a3b1f67cc85/public_url"><img src="Badges/AWS-SSA.png"/></a>
 
 
 <!--
