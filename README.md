@@ -13,9 +13,10 @@ About Me!
 ### Languages
 
 ### Certifications(자격증)
-![aws-certified-solutions-architect-associate](https://user-images.githubusercontent.com/86287920/173170137-e5691bb0-acbb-4e0e-81f3-cbff36c64ae5.png)
+![aws-certified-solutions-architect-associate(1)](https://user-images.githubusercontent.com/86287920/173170170-813668ca-352a-4a58-adba-5138bfd18dca.png)
+![aws-certified-solutions-architect-associate(1)](https://user-images.githubusercontent.com/86287920/173170170-813668ca-352a-4a58-adba-5138bfd18dca.png)
 
-<span><img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white"></span>
+
 
 
 <!--
