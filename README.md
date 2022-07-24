@@ -8,7 +8,7 @@ About Me!
 ## Stats
 ![Contribution](https://github-readme-stats.vercel.app/api?username=jeonilshin&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeonilshin&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jeonilshin&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Others
 
