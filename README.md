@@ -42,7 +42,7 @@ About Me!
 ### Certifications(자격증)
 <a href="https://www.credly.com/badges/7c49e950-e8a8-4e40-a82c-9a3b1f67cc85/public_url"><img src="Badges/AWS-SSA.png"/></a>
 
-
+<img src="https://user-images.githubusercontent.com/86287920/185778647-7934ec8b-2b98-474c-82a1-9b3d336ac50e.png"/>
 <!--
 **jeonilshin/jeonilshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
