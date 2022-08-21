@@ -4,7 +4,6 @@
 ## About me!~ 👋
 - I'm a Student, interested in AI, Programming, and Cloud Computing.
 - 저는 AI, 프로그래밍, 클라우드 컴퓨팅에 관심을 가지고 있는 학생입니다!
-
 <img align="right" width="33%" src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon"/>
 
 ## Stats
@@ -43,18 +42,3 @@
 
 ### Certifications(자격증)
 <a href="https://www.credly.com/badges/7c49e950-e8a8-4e40-a82c-9a3b1f67cc85/public_url"><img src="Badges/AWS-SSA.png"/></a>
-
-<!--
-**jeonilshin/jeonilshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
