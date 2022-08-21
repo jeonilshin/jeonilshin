@@ -5,6 +5,8 @@
 - I'm a Student, interested in AI, Programming, and Cloud Computing.
 - 저는 AI, 프로그래밍, 클라우드 컴퓨팅에 관심을 가지고 있는 학생입니다!
 
+<img align="right" width="33%" src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon"/>
+
 ## Stats
 ![Contribution](https://github-readme-stats.vercel.app/api?username=jeonilshin&count_private=true&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
 
