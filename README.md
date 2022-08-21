@@ -1,5 +1,6 @@
 # 안녕하세요, 전일신입니다!
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /></div>
+<img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="200" height="200"/>
 
 ## About me!~ 👋
 - I'm a Student, interested in AI, Programming, and Cloud Computing.
