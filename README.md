@@ -11,4 +11,4 @@
 
 ### Certifications(자격증)
 <a href="https://www.credly.com/badges/7c49e950-e8a8-4e40-a82c-9a3b1f67cc85/public_url"><img src="Badges/AWS-SSA.png"/></a>
-<a href="https://www.credly.com/badges/f85963c4-93d1-42f9-8cbb-afe7c21d3130/public_url"><img src="Badges/AWS-CPF.png"/></a>
+<a href="https://www.credly.com/badges/f85963c4-93d1-42f9-8cbb-afe7c21d3130/public_url"><img src="Badges/AWS-CPF.png" width="102" height="102"/></a>
