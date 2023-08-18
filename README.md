@@ -1,4 +1,4 @@
-<img src="https://github.com/jeonilshin/jeonilshin/assets/86287920/e719e815-f541-42d9-8bad-b26d130c9436" width="1000" height="300" />
+<img src="https://github.com/jeonilshin/jeonilshin/assets/86287920/e719e815-f541-42d9-8bad-b26d130c9436" />
 
 <h1 align="center">Hi! I'm Shin</h1>
 
