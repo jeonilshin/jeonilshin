@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Cloud, AI and Programming**
 
-- 📫 How to reach me **cloud.jeonilshin@gmail.com**
+- 📫 How to reach me **jeonilshinbusiness@gmail.com**
 
 - ⚡ Fun fact **I am lazy...**
 
