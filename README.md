@@ -21,50 +21,31 @@
     "Dart/Flutter",
     "Machine Learning"
   ],
-  "Education": [
-    "Philippines(PH)": {
-      "Stella Maris Academy of Davao (Graduated)",
-      "St.Paul College of Davao (Graduated)"
-    },
-    "South Korea(KR)": {
-      "Busan Multicultural International School (Graduated)",
-      "Yeongdo Je-Il Middle School (Graduated)",
-      "Daeyang High School (Graduted)"
-    }
-  ],
   "Career": [
     "(주)글로벌탑넷/GlobalTopNet": {
       "Job": {
         "Software Engineer",
         "Cloud Engineer"
       },
-      "Status": "Rookie/Associate",
-      "Projects": {
-        "Camell Drive": {
-          "TechStack": [
-            "AWS",
-            "Dart/Flutter",
-            "Firebase",
-            "Node.js"
-          ]
-        },
-        "TNGPT": {
-          "TechStack": [
-            "TypeScript",
-            "Linux",
-            "Python",
-            "Tensorflow"
-          ]
-        }
-      }
+      "Status": "Rookie/Associate"
     }
   ],
-  "Awards": {
-    "2022 Worldskills Busan Gold Medalist",
-    "2022 Worldskills Korea 7th",
-    "2023 Worldskills Busan Gold Medalist",
-    "2023 Worldskills Korea Bronze Medalist"
+  "Certifications": {
+    "AWS Certified Cloud Practitioner",
+    "AWS Solutions Architect Associate",
+    "정보처리기능사",
+    "정보기기운용기능사"
   },
+  "Certifications to get": {
+    "AWS Developer Associate",
+    "AWS SysOps Associate",
+    "AWS Solutions Architect Professional",
+    "AWS DevOps Professional",
+    "Linux Master 1급",
+    "컴퓨터활용능력 1급",
+    "정보보안기사",
+    "정보처리기사"
+  }
   "Contact": "jeonilshin@glotn.co.kr"
 }
 ```
