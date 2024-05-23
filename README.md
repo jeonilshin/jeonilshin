@@ -15,7 +15,7 @@
   ],
   "techStack": [
     "AWS",
-    "Node.js",
+    "Javascript",
     "Python",
     "Kubernetes",
     "Golang"
