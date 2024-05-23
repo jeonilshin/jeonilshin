@@ -6,42 +6,27 @@
 <h3 align="center">I am a Software Engineer!</h3>
 
 ---
+
 ```json
 {
-  "Name": [
-    "Jeon Il Shin",
-    "전일신"
+  "name": "Jeon Il Shin",
+  "career": [
+    "Software Engineer, Cloud Architect @ GlobalTop.Net (Since. January 29 2024)"
   ],
-  "Award": [
-    "2023년도 전국기능경기대회 클라우드컴퓨팅 동상(3위)",
-    "2023년도 부산기능경기대회 클라우드컴퓨팅 금상(1위)",
-    "2022년도 전국기능경기대회 클라우드컴퓨팅 장려상(6위)",
-    "2022년도 부산기능경기대회 클라우드컴퓨팅 금상(1위)"
-  ],
-  "TechStack": [
+  "techStack": [
     "AWS",
+    "Node.js",
     "Python",
-    "Java",
-    "Golang",
     "Kubernetes",
-    "Javascript",
-    "React.JS",
-    "Typescript"
+    "Golang"
   ],
-  "Studying": [
-    "Machine Learning",
-    "Big Data"
+  "awards": [
+    "Worldskills KR 2023 Cloud Computing Bronze medalist",
+    "Worldskills Busan 2023 Cloud Computing Gold medalist",
+    "Worldskills KR 2022 Cloud Computing Medal of Excellence",
+    "Worldskills Busan 2022 Cloud Computing Gold medalist",
   ],
-  "Career": [
-    "(주)글로벌탑넷/GlobalTopNet": {
-      "Job": {
-        "Software Engineer",
-        "Cloud Engineer"
-      },
-      "Status": "Rookie/Associate"
-    }
-  ],
-  "Certifications": {
+  "Certifications": [
     "AWS Certified Cloud Practitioner",
     "AWS Solutions Architect Associate",
     "AWS Developer Associate",
@@ -49,12 +34,9 @@
     "AWS Solutions Architect Professional",
     "정보처리기능사",
     "정보기기운용기능사"
-  },
-  "Certifications to get": {
-    "AWS DevOps Professional",
-    "Linux Master 1급",
-    "정보보안산업기사"
-  }
-  "Contact": "jeonilshin@glotn.co.kr"
+  ],
 }
 ```
+
+[![IlShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonilshin&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/jeonilshin/jeonilshin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonilshin&layout=compact&langs_count=8&theme=white)](https://github.com/jeonilshin?tab=repositories&q=&type=&language=java&sort=)
