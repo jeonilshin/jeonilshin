@@ -30,7 +30,7 @@
     "AWS Certified Cloud Practitioner",
     "AWS Solutions Architect Associate",
     "AWS Developer Associate",
-    "AWS SysOps Associate",
+    "AWS SysOps Administrator Associate",
     "AWS Solutions Architect Professional",
     "정보처리기능사",
     "정보기기운용기능사"
