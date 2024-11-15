@@ -11,14 +11,14 @@
 {
   "name": "Jeon Il Shin",
   "career": [
-    "Software Engineer, Cloud Architect @ GlobalTop.Net (Since. January 29 2024)"
+    "Co-Founder & CTO @ Amixtra (Founded. October 14, 2024)" 
+    "Software Engineer & Cloud Architect @ GTN (Since. January 29 2024)"
   ],
   "techStack": [
     "AWS",
+    "Machine Learning",
+    "Typescript",
     "Javascript",
-    "Python",
-    "Kubernetes",
-    "Golang"
   ],
   "awards": [
     "Worldskills KR 2023 Cloud Computing Bronze medalist",
