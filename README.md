@@ -39,4 +39,4 @@
 ```
 
 [![IlShin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonilshin&line_height=24&hide_rank=true&&layout=compact&theme=white)](https://github.com/jeonilshin/jeonilshin)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonilshin&layout=compact)
