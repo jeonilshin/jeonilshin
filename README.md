@@ -1,11 +1,5 @@
-<h1 align="center">Hi! I'm Shin</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="150" />
-</p>
-<h3 align="center">I am a Software Engineer!</h3>
-
----
+<img src="https://github.com/user-attachments/assets/f9231d58-e4bd-431f-900b-5ba7d36d97e7"/>
+ <hr></hr>
 
 ```json
 {
