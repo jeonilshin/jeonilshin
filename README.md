@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/98b2fb7f-ced8-4dd4-96c3-1586ee1a3baf"/>
- <hr></hr>
-
 ```json
 {
   "name": "Jeon Il Shin",
