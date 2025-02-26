@@ -2,8 +2,8 @@
 {
   "name": "Jeon Il Shin",
   "career": [
-    "Co-Founder & CTO @ Amixtra (Founded. October 14, 2024)" 
-    "Software Engineer & Cloud Architect @ GTN (Since. January 29 2024)"
+    "Co-Founder & CTO @ Amixtra (Founded. October 14, 2024)",
+    "Software Engineer & Cloud Architect @ GTN"
   ],
   "techStack": [
     "AWS",
