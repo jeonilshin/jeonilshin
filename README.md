@@ -2,11 +2,12 @@
 {
   "name": "Jeon Il Shin",
   "career": [
-    "Co-Founder & CTO @ Amixtra (Founded. October 14, 2024)",
+    "Co-Founder of Solidara Corp.
+    "Co-Founder & CTO of Amixtra (Founded. October 14, 2024)",
     "Software Engineer & Cloud Architect @ GTN"
   ],
   "techStack": [
-    "AWS",
+    "Cloud Computing",
     "Machine Learning",
     "Typescript",
     "Javascript",
