@@ -11,6 +11,8 @@
     "Machine Learning",
     "Typescript",
     "Javascript",
+    "Python",
+    "Golang" // Little Bit 😋
   ]
 }
 ```
