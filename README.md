@@ -13,6 +13,11 @@
     "Javascript",
     "Python",
     "Golang" // Little Bit 😋
-  ]
+  ],
+  "interests": [
+    "food 🍽️",
+    "sleep 😴",
+    "more sleeps 💤"
+  ],
 }
 ```
