@@ -7,8 +7,10 @@
     "Software Engineer & Cloud Architect @ GTN"
   ],
   "techStack": [
-    "Cloud Computing",
+    "AWS",
+    "Kubernetes",
     "Machine Learning",
+    "Node.js",
     "Typescript",
     "Javascript",
     "Python",
