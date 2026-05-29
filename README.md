@@ -13,6 +13,8 @@
     "Javascript",
     "Python",
     "Golang" // Little Bit 😋
+    "Kotlin",
+    "Swift"
   ],
   "interests": [
     "food 🍽️",
